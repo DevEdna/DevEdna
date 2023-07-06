@@ -4,7 +4,7 @@
 
 - 🔭  Atualmente estou em busca de novas oprtunidade como desenvolvedora front-end junior
 - 😊  Sou formada em Análise e desenvolvimento de sistemas
-- 🌱  Estou estudando React e possuo conhecimentos em HTML, CSS e Javascript.
+- 🌱  Estou estudando React e possuo conhecimentos em HTML, CSS, Bootstrap, Javascript, Git e Github.
 - 📫  Email: contato.ednafleite@gmail.com / LinkedIn: https://www.linkedin.com/in/edna-ferreira-70a868256
 - 😄  Pronomes: Ela / Dela
 
